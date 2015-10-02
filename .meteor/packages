@@ -34,8 +34,11 @@ telescope:tags
 telescope:theme-base
 telescope:theme-hubble
 telescope:update-prompt
+telescope:debug
 
 ############ Your Custom Packages ############
 
 # custom
 standard-minifiers
+pauli:accounts-linkedin
+msavin:mongol
