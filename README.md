@@ -1,1 +1,1 @@
-Live at http://salvador9.meteor.com
+Custom telescope build
